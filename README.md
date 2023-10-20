@@ -1,5 +1,5 @@
 ## custom-ogbl-split
-Create split for link property prediction task for your custom datasets
+Create split for link property prediction task for your custom datasets.
 
 ## Step 1: Run the demo
 
